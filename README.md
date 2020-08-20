@@ -23,4 +23,4 @@
 she/her
 
 ### 🎧 Listening to:
-{% spotify spotify:track:0IqrBjsS2wToMuIJgZjur7 %}
+{% include spotifySong.html id="0IqrBjsS2wToMuIJgZjur7" %}
