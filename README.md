@@ -22,5 +22,5 @@
 ### 😄 Pronouns: ...
 she/her
 
-### 🎧 Listening to:
-{% include spotifySong.html id="0IqrBjsS2wToMuIJgZjur7" %}
+<!--### 🎧 Listening to:
+{% include spotifySong.html id="0IqrBjsS2wToMuIJgZjur7" %}-->
