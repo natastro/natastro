@@ -6,7 +6,7 @@
 - Projects needing Spanish translation
 - Learning! (see below)
 - Diving back into Python
-- [No Silence](https://nosilence.space/)
+- [No Silence | Black Live Matter](https://nosilence.space/)
 
 ### 🌱 I’m currently learning 
 [11ty](https://www.11ty.dev/)
