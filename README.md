@@ -3,6 +3,7 @@
 ---
 
 ### 💻 I’m currently working on 
+- getting my master's in Assistive Technology Engineering!
 - Projects needing Spanish translation
 - Learning! (see below)
 - Diving back into Python
