@@ -18,7 +18,7 @@
 #i18n and #a11y!
 
 ### 📫 How to reach me
-[My website](http://natalieastroud.com/) has a number of ways to reach me. I'm also on [Twitter](https://twitter.com/nataliecodes)
+[My website](http://natalieastroud.com/) has a number of ways to reach me. 
 
 ### 😄 Pronouns
 she/her
