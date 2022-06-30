@@ -15,7 +15,7 @@
 [Bioinformatics](https://www.coursera.org/learn/bioinformatics/home/welcome)
 
 ### 💬 Ask me about 
-#i18n and #a11y!
+#l10n and #a11y!
 
 ### 📫 How to reach me
 [My website](http://natalieastroud.com/) has a number of ways to reach me. 
