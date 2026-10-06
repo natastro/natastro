@@ -2,6 +2,8 @@
 
 ---
 
+Updated October 6, 2026
+
 ### 💻 currently working on 
 - Firefox 🦊
 - [The Accessibility Resource Library](https://the-accessibility-resource-library.netlify.app/)
