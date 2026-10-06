@@ -2,25 +2,23 @@
 
 ---
 
-### 💻 I’m currently working on 
-- Projects needing Spanish translation
-- Learning! (see below)
-- Diving back into Python
-- [No Silence | Black Lives Matter](https://nosilence.space/)
+### 💻 currently working on 
+- Firefox 🦊
+- [The Accessibility Resource Library](https://the-accessibility-resource-library.netlify.app/)
 
-### 🌱 I’m currently learning 
-[11ty](https://www.11ty.dev/)
+### 🌱 currently learning 
+- brushing up on Domain I for the IAAP WAS Certification ([what's this?](https://www.accessibilityassociation.org/was-credential-content-outline#:~:text=I%2E%20Creating%20Accessible%20Web%20Solutions%20%2840%25%29%2E))
 
-[Bioinformatics](https://www.coursera.org/learn/bioinformatics/home/welcome)
+### 💬 ask me about 
+#a11y!
 
-### 💬 Ask me about 
-#l10n and #a11y!
-
-### 📫 How to reach me
+### 📫 how to reach me
 [My website](http://natalieastroud.com/) has a number of ways to reach me. 
 
 ### 😄 Pronouns
 she/her
 
-<!--### 🎧 Listening to:
-{% include spotifySong.html id="0IqrBjsS2wToMuIJgZjur7" %}-->
+<!--🎧 Listening to:
+<iframe title="Who's Having Fun? by DRAIN on Spotify" src="https://open.spotify.com/embed/track/4nsG0iWO2WH4EMdc9KcGZ3" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
